@@ -1,6 +1,7 @@
 # Secure Vault
 
 A secure, full-stack file management system featuring a Django REST API backend and a modern React frontend. The application allows users to upload, list, download, and delete files with robust security and cloud storage support.
+![](https://github.com/aizwal9/Secure-vault-frontend/blob/main/image.png?raw=true)
 
 ---
 
@@ -33,6 +34,9 @@ A secure, full-stack file management system featuring a Django REST API backend 
 - API integration with authentication and CORS
 
 ---
+
+## Flow
+![](https://github.com/aizwal9/Secure-vault-hub/blob/main/img.png?raw=true)
 
 ## 🛠️ Getting Started
 
