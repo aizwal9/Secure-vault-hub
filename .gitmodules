@@ -1,0 +1,6 @@
+[submodule "Secure-vault-frontend"]
+	path = Secure-vault-frontend
+	url = https://github.com/aizwal9/Secure-vault-frontend.git
+[submodule "Secure-vault-backend"]
+	path = Secure-vault-backend
+	url = https://github.com/aizwal9/Secure-vault-backend.git
